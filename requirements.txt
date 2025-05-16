@@ -1,0 +1,25 @@
+gradio
+pyzbar
+opencv-python
+numpy
+diffusers
+transformers
+accelerate
+safetensors
+torch
+Pillow
+huggingface-hub
+
+## 🔧 Getting Started
+
+### 1. Clone the repository
+
+### 2. Install dependencies
+
+
+### 3. Set your Hugging Face token
+
+- Edit the script and replace `HF_TOKEN = "..."` with your [Hugging Face access token](https://huggingface.co/settings/tokens).
+
+### 4. Run the app
+
